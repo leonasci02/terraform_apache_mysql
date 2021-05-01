@@ -20,7 +20,7 @@ Enviar a URL GitHub do código
 
 > Passo a passo
 ```
-Baixar o código no github https://github.com/vinivioti/atividadeVagrant.git
+Baixar o código no github https://github.com/leonasci02/terraform_apache_mysql.git
 abra o Visual Code na pasta do projeto
 Execute o comando:$ az login 
 Execute o comando:$ Terraform init 
